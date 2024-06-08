@@ -631,3 +631,19 @@ li {
         margin-inline: 0;
     }
 }
+
+.copyright-div{
+    background-color: black;
+}
+
+.copyright{
+    font-size: small;
+    color: white;
+    min-height: 100%;
+    text-align: center;
+    padding-top: 15px;
+}
+
+html{
+    background-color: black;
+}
